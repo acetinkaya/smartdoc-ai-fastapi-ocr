@@ -1,0 +1,1 @@
+# smartdoc-ai-fastapi-ocr
